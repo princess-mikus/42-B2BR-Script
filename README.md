@@ -11,6 +11,6 @@ Small script to be run with crontab every 10 minutes for 42's project Born 2 Be 
    <li><b>LVM Satus:</b> Tells you if LVM volumes are present</li>
    <li><b>Number of TCP Connections:</b> Ammount of people connected to the server remotely (for example using SSH)</li>
    <li><b>Users Online:</b> Amount of logged users</li>
-   <li><b>IP:</b> IPv4 of the Server</li>
+   <li><b>IP:</b> IPv4 and Mac address of the Server</li>
    <li><b>Sudo Command Count:</b> Amount of commands executed elevated with sudo</li>
 </ul>
